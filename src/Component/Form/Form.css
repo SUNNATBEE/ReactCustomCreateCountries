@@ -1,0 +1,21 @@
+.form{
+    max-width: 480px;
+    width: 100%;
+    border-radius: 5px;
+    background-color: #fff;
+    box-shadow: 0px 2px 9px 0px rgba(0, 0, 0, 0.05);
+    padding:18px 0 18px 32px;
+}
+.search__input{
+    outline: none;
+}
+.search__select{
+    max-width: 200px;
+    width: 100%;
+    padding: 18px 22px 18px 24px;
+    border: none;
+    outline: none;
+    border-radius: 5px;
+    background-color: #fff;
+    box-shadow: 0px 2px 9px 0px rgba(0, 0, 0, 0.05);
+}

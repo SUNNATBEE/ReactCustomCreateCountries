@@ -1,0 +1,31 @@
+{
+  "name": "2-uyishi",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "dev": "vite",
+    "build": "vite build",
+    "serve": "vite preview",
+    "format": "prettier --write \"src/**/*.{js,jsx}\"",
+    "lint": "eslint \"src/**/*.{js,jsx}\" --quiet --fix"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "@vitejs/plugin-react": "^4.0.2",
+    "eslint": "^8.44.0",
+    "eslint-config-node": "^2.0.0",
+    "eslint-config-prettier": "^8.8.0",
+    "eslint-plugin-node": "^1.0.0",
+    "eslint-plugin-prettier": "^4.2.1",
+    "eslint-plugin-react": "^7.25.3",
+    "prettier": "3.0.0",
+    "vite": "^4.4.2"
+  },
+  "dependencies": {
+    "react": "^18.2.0",
+    "react-dom": "^18.2.0"
+  }
+}
